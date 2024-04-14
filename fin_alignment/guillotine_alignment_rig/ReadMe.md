@@ -1,6 +1,6 @@
 I have not test printed this so please report issues
 
-At scale, this supports up to 6" rockets. But it can be scaled up or down so long as you have the print space.
+At scale, this supports up to 4" rockets. But it can be scaled up or down so long as you have the print space.
 
 You will need to print:
 
