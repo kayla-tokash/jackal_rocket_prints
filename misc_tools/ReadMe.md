@@ -1,0 +1,1 @@
+Print two of the fillet sanding tool, then wrap your desired grit of sand paper (120 works well) aroudn each of the prints, push #6 screws through the holes on each print and bolt it all together tightly. You may want to wear gloves when using this tool because it can irritate the skin. 
